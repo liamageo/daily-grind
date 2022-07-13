@@ -77,7 +77,7 @@ switch(myDay) {
       case 1:
         today = "Monday";
         coffee = {
-            color: "orange",
+            color: "teal",
             name: "Drip",
             pic: "images/drip.jpg",
             alt: "A picture of Drip coffee",
@@ -90,7 +90,7 @@ switch(myDay) {
       case 2:
         today = "Tuesday";
         coffee = {
-            color: "red",
+            color: "beige",
             name: "Frappaccino",
             pic: "images/frappaccino.jpg",
             alt: "A picture of a Frappaccino",
@@ -134,7 +134,7 @@ switch(myDay) {
         case 5:
             today = "Friday";
             coffee = {
-                color: "pink",
+                color: "olive",
                 name: "caramel latte",
                 pic: "images/caramel-latte.jpg",
                 alt: "A picture of Caramel Latte",
